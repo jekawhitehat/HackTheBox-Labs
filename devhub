@@ -1,0 +1,4 @@
+┌──(jekawhitehat㉿kali)-[~]
+└─$ ssh -i id_rsa root@devhub.htb
+root@devhub:~# cat /root/root.txt
+1c46bcf90a004*******0ace44482be2
