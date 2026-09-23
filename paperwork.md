@@ -1,0 +1,8 @@
+=============================================
+ADMIN_PASSWORD=App************2
+=============================================
+
+archivist@paperwork:~$ su -
+Password: 
+root@paperwork:~# cat /root/root.txt
+fc1c2e3*****51a9bf342f23
