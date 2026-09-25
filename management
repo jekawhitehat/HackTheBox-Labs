@@ -1,0 +1,4 @@
+┌──(jekawhitehat㉿kali)-[~]
+└─$ ssh -i id_rsa r******t@management.htb
+r******t@management:~# cat /root/root.txt
+4e8012a*************9e24ef3eacc2973
